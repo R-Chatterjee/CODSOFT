@@ -5,12 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDNVNP_zvOPIQTWtxD6MvO7sF4B7bniFLc",
-  authDomain: "job-board-92882.firebaseapp.com",
-  projectId: "job-board-92882",
-  storageBucket: "job-board-92882.appspot.com",
-  messagingSenderId: "461740800351",
-  appId: "1:461740800351:web:caef04ae32de11e6a81eea"
+  
 };
 
 // Initialize Firebase
